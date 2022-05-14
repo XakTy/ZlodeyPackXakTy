@@ -1,5 +1,40 @@
 {
   "dependencies": {
+    "com.cysharp.unitask": {
+      "version": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "9e2163616b9c527fa9461544e2bcc5f93fd12d83"
+    },
+    "com.dbrizov.naughtyattributes": {
+      "version": "https://github.com/dbrizov/NaughtyAttributes.git#upm",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "8a8fa5a9659a6d63f196391c71e06c4286c8acd7"
+    },
+    "com.leopotam.ecs": {
+      "version": "https://github.com/greatvv/ecs.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "91cc7e390fa0eb4fc88a5cf111df88b1f45af37e"
+    },
+    "com.leopotam.ecs-unityintegration": {
+      "version": "https://github.com/greatvv/ecs-unityintegration.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "127d6a8f02ec987ac724a7fc671b1d5d00b0ea56"
+    },
+    "com.leopotam.globals": {
+      "version": "https://github.com/greatvv/globals.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "e1c7e87b4f3c1cb3a96f7be924bd715efafa9374"
+    },
     "com.unity.collab-proxy": {
       "version": "1.15.15",
       "depth": 0,
@@ -100,6 +135,13 @@
         "com.unity.modules.jsonserialize": "1.0.0"
       },
       "url": "https://packages.unity.com"
+    },
+    "com.wooshii.hierarchydecorator": {
+      "version": "https://github.com/WooshiiDev/HierarchyDecorator.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "49c4b3f88315e077d771837eaf609389fe4e1381"
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
